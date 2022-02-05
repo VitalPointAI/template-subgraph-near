@@ -1,6 +1,6 @@
 # NEAR Template Subgraph
 
-A NEAR Template Subgraph project to help you get started with The Graph for NEAR. For more information see the docs for [Building Subgraphs on NEAR](https://thegraph.com/docs/supported-networks/near).
+A NEAR Template Subgraph project to help you get started with The Graph for NEAR. Complements [The Graph for NEAR course] (https://vitalpoint.ai/academy/the-graph-near-building-subgraphs/) and the official The Graph docs - [Building Subgraphs on NEAR](https://thegraph.com/docs/supported-networks/near).
 
 Customize the following files:
 - subgraph.yaml
